@@ -1,0 +1,6 @@
+applicationType: default
+defaultPackage: example.micronaut
+testFramework: junit
+sourceLanguage: java
+buildTool: maven
+features: [app-name, aws-v2-sdk, graalvm, http-client-test, java, java-application, junit, localstack, logback, maven, maven-enforcer-plugin, micronaut-aot, micronaut-http-validation, netty-server, object-storage-aws, properties, readme, serialization-jackson, shade, spotless, static-resources, testcontainers]
