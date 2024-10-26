@@ -1,0 +1,9 @@
+com\luby\agent\cloudstorage\service\FileStorageService.class
+com\luby\agent\cloudstorage\api\FileStorageController.class
+META-INF\micronaut\io.micronaut.inject.BeanDefinitionReference\com.luby.agent.cloudstorage.api.$FileStorageController$Definition
+com\luby\agent\cloudstorage\api\$FileStorageController$Definition.class
+com\luby\agent\cloudstorage\api\$FileStorageController$Definition$Exec.class
+META-INF\micronaut\io.micronaut.inject.BeanDefinitionReference\com.luby.agent.cloudstorage.service.$FileStorageServiceImpl$Definition
+com\luby\agent\cloudstorage\Application.class
+com\luby\agent\cloudstorage\service\$FileStorageServiceImpl$Definition.class
+com\luby\agent\cloudstorage\service\FileStorageServiceImpl.class
